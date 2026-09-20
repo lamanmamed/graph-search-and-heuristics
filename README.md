@@ -1,6 +1,6 @@
 # Graph Search and Heuristics
 
-A master's-level Artificial Intelligence coursework project exploring **graph search, heuristic design, optimisation, and constrained generation** on a word-adjacency network derived from text.
+A project exploring **graph search, heuristic design, optimisation, and constrained generation** on a word-adjacency network derived from text.
 
 Each unique token is represented as a node and observed word-to-word transitions form graph edges. The project treats several tasks as search problems: finding long or high-cost paths, extracting endpoint-constrained sequences, and generating missing sentence spans while staying on the observed graph. The original coursework experiments used George Orwell's *Nineteen Eighty-Four* as the source text.
 
